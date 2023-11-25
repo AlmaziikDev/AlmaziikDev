@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almaziik777&label=Profile%20views&color=0068a8&style=flat" alt="almaziik777" /> </p>
 
-<a href="https://discord.com/channels/@me/718458417232085104"> <img src="https://discord.c99.nl/widget/theme-1/718458417232085104.png" alt="contact mee">
+<a href="https://discord.com/users/718458417232085104"> <img src="https://discord.c99.nl/widget/theme-1/718458417232085104.png" alt="contact mee">
 
 ## - 🔭 I’m currently working on [Huge Discord Bot](https://github.com/Almaziik777/Discord-Bot)
 
