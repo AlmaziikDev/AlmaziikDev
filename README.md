@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almaziik777&label=Profile%20views&color=0068a8&style=flat" alt="almaziik777" /> </p>
 
+<a href="https://discord.com/channels/@me/718458417232085104"> <img src="https://discord.c99.nl/widget/theme-1/718458417232085104.png" alt="contact mee">
+
 - 🔭 I’m currently working on [Huge Discord Bot](https://github.com/Almaziik777/Discord-Bot)
 
 - 🌱 I’m currently learning **JavaScript(Professional level)**
 
 - 💬 Ask me about **How to create a Discord Bot.**
 
-- 📫 How to reach me **https://discord.gg/6K7K2wPtBG**
+- 📫 How to reach me? My [Bot's](https://github.com/Almaziik777/Discord-Bot) Support Server - **https://discord.gg/6K7K2wPtBG**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
