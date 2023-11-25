@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/mJR3gtv/Almaz-Banner-Top-GG.png" alt="Banner">
+  
 <h1 align="center">Hi 👋, My name is Almaz</h1>
 <h3 align="center">A Discord Bot Developer (JS and Python).</h3>
 
