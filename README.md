@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Huge Discord Bot](https://github.com/Almaziik777/Discord-Bot)
 
-- 🌱 I’m currently learning **JavaScript(Professional level)**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **How to create a Discord Bot.**
 
