@@ -5,13 +5,13 @@
 
 <a href="https://discord.com/channels/@me/718458417232085104"> <img src="https://discord.c99.nl/widget/theme-1/718458417232085104.png" alt="contact mee">
 
-- 🔭 I’m currently working on [Huge Discord Bot](https://github.com/Almaziik777/Discord-Bot)
+## - 🔭 I’m currently working on [Huge Discord Bot](https://github.com/Almaziik777/Discord-Bot)
 
-- 🌱 I’m currently learning **JavaScript**
+## - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about: **How to create a Discord Bot.**
+## - 💬 Ask me about: **How to create a Discord Bot.**
 
-- 📫 How to reach me? My [Bot](https://github.com/Almaziik777/Discord-Bot) Support Server - **https://discord.gg/6K7K2wPtBG**
+## - 📫 How to reach me? My [Bot](https://github.com/Almaziik777/Discord-Bot) Support Server - **https://discord.gg/6K7K2wPtBG**
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -22,7 +22,7 @@
 <p align="center">
 
 - **Languages**:
-    
+  
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
