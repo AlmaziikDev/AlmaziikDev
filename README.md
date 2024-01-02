@@ -12,7 +12,7 @@
 
 ## - 💬 Ask me about: **How to create a Discord Bot.**
 
-## - 📫 How to reach me? My [Bot](https://github.com/Almaziik777/Discord-Bot) Support Server - **https://discord.gg/6K7K2wPtBG**
+## - 📫 How to reach me? My Bot Support Server - **https://discord.gg/6K7K2wPtBG**
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
