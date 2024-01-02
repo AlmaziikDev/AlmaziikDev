@@ -8,8 +8,6 @@
 
 <a href="https://discord.com/users/718458417232085104"> <img src="https://discord.c99.nl/widget/theme-1/718458417232085104.png" alt="contact mee">
 
-## - 🔭 I’m currently working on [Huge Discord Bot](https://github.com/Almaziik777/Discord-Bot)
-
 ## - 🌱 I’m currently learning **JavaScript**
 
 ## - 💬 Ask me about: **How to create a Discord Bot.**
