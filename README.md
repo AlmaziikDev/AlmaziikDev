@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="https://i.ibb.co/9TZq7sY/Almaz-Banner.gif" alt="Banner">
+  <img src="https://cdn.discordapp.com/banners/718458417232085104/a_c02a19c442e45f138f6d18cf4affa8e1.gif?size=4096&width=0&height=256" alt="Banner">
+</p>
   
 <h1 align="center">Hi 👋, My name is Almaz</h1>
-<h3 align="center">A Discord Bot Developer (JS and Python).</h3>
+
+### A Discord Bot Developer and Owner of the [WeissX Hosting](https://weissx.com)</h3>
 
 <a href="https://dsc.gg/weissx" >
-   <img src="https://lanyard.kyrie25.me/api/718458417232085104?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=%20doing%20something%20else...">
+   <img src="https://lanyard.kyrie25.me/api/718458417232085104?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&animated=true&showDisplayName=true&borderRadius=30px&imgStyle=square&idleMessage=Fights%20off%20bad%20people%20on%20his%20hosting">
   </a>
 
-## - 🌱 I’m currently learning **JavaScript**
+## - 🌱 I’m currently working on my hosting: **[WeissX Hosting](https://dsc.gg/weissx)**
 
-## - 💬 Ask me about: **How to create a Discord Bot.**
+## - 💬 Ask me about: **How to host your Discord Bot or Website on my [Hosting](https://dsc.gg/weissx).**
 
-## - 📫 How to reach me? My Bot Support Server - **https://discord.gg/6K7K2wPtBG**
+## - 📫 How to reach me? My Hosting Discord Server - **[WeissX](https://dsc.gg/weissx)**
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
