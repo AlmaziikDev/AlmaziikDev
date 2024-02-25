@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, My name is Almaz</h1>
 <h3 align="center">A Discord Bot Developer (JS and Python).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=almaziik777&label=Profile%20views&color=0068a8&style=flat" alt="almaziik777" /> </p>
-
-<a href="https://discord.com/users/718458417232085104"> <img src="https://discord.c99.nl/widget/theme-1/718458417232085104.png" alt="contact mee">
+<a href="https://dsc.gg/weissx" >
+   <img src="https://lanyard.kyrie25.me/api/718458417232085104?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=%20doing%20something%20else...">
+  </a>
 
 ## - 🌱 I’m currently learning **JavaScript**
 
