@@ -7,7 +7,7 @@
 ### A Discord Bot Developer and Owner of the [WeissX Hosting](https://weissx.com)</h3>
 
 <a href="https://dsc.gg/weissx" >
-   <img src="https://lanyard.kyrie25.me/api/718458417232085104?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&animated=true&showDisplayName=true&borderRadius=30px&imgStyle=square&idleMessage=Fights%20off%20bad%20people%20on%20his%20hosting">
+   <img src="https://lanyard.kyrie25.me/api/718458417232085104?waveColor=6161AF&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&animated=true&showDisplayName=true&borderRadius=30px&imgStyle=square&idleMessage=Fights%20off%20bad%20people%20on%20his%20hosting">
   </a>
 
 ## - 🌱 I’m currently working on my hosting: **[WeissX Hosting](https://dsc.gg/weissx)**
