@@ -8,13 +8,7 @@
 
 <a href="https://dsc.gg/weissx" >
    <img src="https://lanyard.kyrie25.me/api/718458417232085104?waveColor=6161AF&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&animated=true&showDisplayName=true&borderRadius=30px&imgStyle=square&idleMessage=Fights%20off%20bad%20people%20on%20his%20hosting">
-  </a>
-
-## - 🌱 I’m currently working on my hosting: **[WeissX Hosting](https://dsc.gg/weissx)**
-
-## - 💬 Ask me about: **How to host your Discord Bot or Website on my [Hosting](https://dsc.gg/weissx).**
-
-## - 📫 How to reach me? My Hosting Discord Server - **[WeissX](https://dsc.gg/weissx)**
+</a>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
